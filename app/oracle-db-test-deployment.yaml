@@ -23,5 +23,5 @@ spec:
         - name: CONNECTION_STRING
           valueFrom:
             secretKeyRef:
-              name: autonomousdb-connection
+              name: autonomousdb-connection-secret
               key: high
