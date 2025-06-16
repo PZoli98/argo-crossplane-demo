@@ -3,7 +3,7 @@ kind: AutonomousDatabase
 metadata:
   name: demo-autonomous-db
 spec:
-  namespace: oracle-db-test
+  namespace: demo
   compartmentId: ocid1.tenancy.oc1..aaaaaaaaour4bncy5qvbtjv74iiyvdc6bbibwj6nbdahkyhziez5bqkp45aq
   dbName: demo-autonomous-db
   displayName: demo-autonomous-db
